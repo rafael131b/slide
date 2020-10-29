@@ -1,0 +1,69 @@
+
+
+#painel{
+    margin: auto;
+
+    height: 500px;
+    width: 700px;
+    border: 5px solid red;
+    background-color: burlywood;
+}
+
+
+
+#proximo{
+width: 100px;
+height: 100px;
+opacity: 0.3;
+position: relative;
+top: 210px;
+left: 600px;
+
+
+}
+
+#anterior{
+
+    width: 100px;
+    height: 100px;
+    opacity: 0.3;
+    position: relative;
+    top: 100px;
+    
+ 
+
+}
+
+#player{
+
+    width: 150px;
+    height: 70px;
+    opacity: 0.3;
+    position: relative;
+    top: 320px;
+    left: 170px;
+    border-radius: 5px;
+
+}
+
+#temporando{
+   
+    height: 50px;
+    width: 180px;
+    border: 5px solid black;
+    background-color: cadetblue;
+    
+    text-align: center;
+    
+    font-size: 40px;
+
+}
+p{
+    margin-top: 150px;
+}
+
+
+
+body{
+    background-color: indigo;
+}
